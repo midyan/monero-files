@@ -1,5 +1,10 @@
 [Unit]
-Description=Monero mining service
+Description=Monero Mining
+After=network.target
 
 [Service]
+User=mongodb
 ExecStart=~/xmr-stak-cpu/bin/xmr-stak-cpu ~/xmr-stak-cpu/bin/config.txt
+
+[Install]
+WantedBy=multi-user.target
