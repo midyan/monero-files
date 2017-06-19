@@ -1,0 +1,5 @@
+[Unit]
+Description=Monero mining service
+
+[Service]
+ExecStart=~/xmr-stak-cpu/bin/xmr-stak-cpu ~/xmr-stak-cpu/bin/config.txt
