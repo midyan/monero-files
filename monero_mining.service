@@ -3,7 +3,7 @@ Description=Monero Mining
 After=network.target
 
 [Service]
-User=mongodb
+User=root
 ExecStart=~/xmr-stak-cpu/bin/xmr-stak-cpu ~/xmr-stak-cpu/bin/config.txt
 
 [Install]
