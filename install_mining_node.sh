@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 sudo apt-get update
 sudo apt-get install -y git libmicrohttpd-dev libssl-dev cmake build-essential
 git clone https://github.com/fireice-uk/xmr-stak-cpu.git
