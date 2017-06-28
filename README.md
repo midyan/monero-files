@@ -17,7 +17,6 @@ To install and run on tmux. See the cheat-sheet for Tmux [here](https://gist.git
 ```
 sudo apt-get install tmux -y
 tmux new -s mining
-tmux a -t mining
 ```
 
 Inside the Tmux screen simply run:
