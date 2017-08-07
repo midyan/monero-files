@@ -178,7 +178,7 @@
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 9999,
+"httpd_port" : 80,
 
 /*
  * prefer_ipv4 - IPv6 preference. If the host is available on both IPv4 and IPv6 net, which one should be choose?
