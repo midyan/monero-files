@@ -111,8 +111,8 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "teracycle.net:3333",
-"wallet_address" : "47q63WecSyVjK3M222CFhvE2vpgKwSZvVU9BPXHZhoBaHjDKum7owDtJYiZHU8aAh4By7w36iifSeY2havLpWVmd1KhMN9G",
+"pool_address" : "sumo.ms-pool.net.ua:3333",
+"wallet_address" : "Sumoo3aNtJRQhbEVhq8PejEk3UoR3mtHbJ6QQfAAztM8JK7mqVH7fGvNLv3Zfc2RQXLPdr5A6AG6RA4ocGmtQVsWZwQgcByV6E3",
 "pool_password" : "x",
 
 /*
