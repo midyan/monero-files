@@ -8,4 +8,4 @@ cmake .
 sudo make install
 cd bin
 rm config.txt
-wget "https://raw.githubusercontent.com/midyan/monero-files/master/lib/$1core/config.txt" -O config.txt
+wget "https://raw.githubusercontent.com/midyan/monero-files/master/$2/$1core/config.txt" -O config.txt
