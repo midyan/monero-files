@@ -2,8 +2,7 @@
 
 To Install the XMR-Stak-Cpu:
 ```
-wget https://raw.githubusercontent.com/midyan/monero-files/master/install_mining_node.sh; sudo chmod +x install_mining_node.sh
-sudo ./install_mining_node.sh 4 monero // Number of cores you want to and which coin to mine. Only monero or sumo
+wget https://raw.githubusercontent.com/midyan/monero-files/master/install_mining_node.sh; sudo chmod +x install_mining_node.sh && sudo ./install_mining_node.sh 8 sump // Number of cores you want to and which coin to mine. Only monero or sumo
                                 // Goes from 1 to 8
 cd xmr-stak-cpu/bin // Get into the bin directory
 ```
